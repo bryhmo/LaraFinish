@@ -9,6 +9,6 @@ class UserController extends Controller
     //
     function index()
     {
-        echo "hello world my name is Controller ";
+        echo "hello world my name is Controller";
     }
 }
